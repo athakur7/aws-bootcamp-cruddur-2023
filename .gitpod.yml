@@ -18,6 +18,7 @@ vscode:
   extensions:
     - 42Crunch.vscode-openapi
     - cweijan.vscode-postgresql-client2
+    - vscode-icons-team.vscode-icons
 
 ports:
   - name: frontend
